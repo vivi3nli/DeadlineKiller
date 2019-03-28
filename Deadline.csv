@@ -1,0 +1,4 @@
+,Task,DueDate,DayLeft,EstimateTime,DailyWorkHours
+0,paper revision,"time.struct_time(tm_year=2019, tm_mon=3, tm_mday=28, tm_hour=23, tm_min=59, tm_sec=0, tm_wday=3, tm_yday=87, tm_isdst=-1)",1.0772337962962963,3,2.784910768966295
+2,ML project,"time.struct_time(tm_year=2019, tm_mon=3, tm_mday=31, tm_hour=23, tm_min=59, tm_sec=0, tm_wday=6, tm_yday=90, tm_isdst=-1)",4.0766782407407405,3,0.7358932500532329
+1,T-reg analysis,"time.struct_time(tm_year=2019, tm_mon=3, tm_mday=31, tm_hour=23, tm_min=59, tm_sec=0, tm_wday=6, tm_yday=90, tm_isdst=-1)",4.076944444444443,12,2.943380799890986
